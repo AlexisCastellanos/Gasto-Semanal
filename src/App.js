@@ -44,7 +44,7 @@ function App() {
 		<React.Fragment>
 			<div className="container">
 				<header>
-					<h1>Gasto Semanal - Alexis</h1>
+					<h1>Gasto Semanal (Alexis)</h1>
 
 					<div className="contenido-principal contenido">
 						{mostrarpregunta ? (
